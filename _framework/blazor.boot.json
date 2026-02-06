@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "blazorWA_app01",
   "resources": {
-    "hash": "sha256-0W2w35tIqtWrD35OWRyRfJ8xs4exLfcNFT52spoxhZ0=",
+    "hash": "sha256-IkhwLIyKoZcXpUlMrCAeR8RREDBERDyPzJ7iXA5IGK0=",
     "fingerprinting": {
-      "blazorWA_app01.t70igh4gr1.wasm": "blazorWA_app01.wasm",
+      "blazorWA_app01.gq9t66789d.wasm": "blazorWA_app01.wasm",
       "Microsoft.AspNetCore.Components.s3rszw50f6.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.5fnpqqr84r.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.ifqb5azqz6.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -32,7 +32,7 @@
       "System.Net.Http.Json.9cqhqmryzt.wasm": "System.Net.Http.Json.wasm",
       "System.Net.Http.qsqlx2amef.wasm": "System.Net.Http.wasm",
       "System.Net.Primitives.3uow9zd1kc.wasm": "System.Net.Primitives.wasm",
-      "System.Private.CoreLib.muc80416lb.wasm": "System.Private.CoreLib.wasm",
+      "System.Private.CoreLib.e34803euvj.wasm": "System.Private.CoreLib.wasm",
       "System.Private.Uri.2gfql8yhpu.wasm": "System.Private.Uri.wasm",
       "System.Runtime.InteropServices.JavaScript.f4ln4hfftw.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
       "System.Runtime.mbe1ok323v.wasm": "System.Runtime.wasm",
@@ -62,11 +62,11 @@
       "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "coreAssembly": {
-      "System.Private.CoreLib.muc80416lb.wasm": "sha256-8uzZbW4ivp7ke5QwpOH62DNVtcYSvQunkqaCCREQGqo=",
+      "System.Private.CoreLib.e34803euvj.wasm": "sha256-Ru3AuPByRJeN0851gFpXewnSrUviSQIJt6p3E0UUCRQ=",
       "System.Runtime.InteropServices.JavaScript.f4ln4hfftw.wasm": "sha256-r+LQmgoVdHgFKWJvUNAR7HQZAtSw+xvBIQ6siSPsBNM="
     },
     "assembly": {
-      "blazorWA_app01.t70igh4gr1.wasm": "sha256-mQUrFUvPDYIzV4l2XxnTvRbN5JngQfErAvyQC2aBAIY=",
+      "blazorWA_app01.gq9t66789d.wasm": "sha256-eBuJrfZjKnnWGPcy7WsjNCsADyn5HuKTMPTlci4CbY8=",
       "Microsoft.AspNetCore.Components.s3rszw50f6.wasm": "sha256-OEvso4jZCfsWhQf6wL0+Nd+/9RkA6UT48KJUB2ZxzWM=",
       "Microsoft.AspNetCore.Components.Web.5fnpqqr84r.wasm": "sha256-0fT5DLMa1voamFmX5/f/aY8oct7a5CLEOHu2Tdn6oCA=",
       "Microsoft.AspNetCore.Components.WebAssembly.ifqb5azqz6.wasm": "sha256-jpe/O0apNqld0EBC+ivtGoIEr5grmWtOjWy/2rKiXM8=",
